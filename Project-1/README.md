@@ -1,5 +1,5 @@
 # Project-1
-CS330: Robotics
+CS 330: Robotics
 
 ## Goals:
 1. Cycle the power button from red to green in 16 even steps. Show each<br>
