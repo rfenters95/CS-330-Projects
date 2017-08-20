@@ -12,7 +12,7 @@ Have the Roomba drive into (bump) and correct itself.
 ## Hints:
 - Implement a PID controller. **Derivative may not be neccessary**.
 
-## Executing code (New way):
-  1. Navigate to source directory
-  2. Right click open in terminal
+## Executing code:
+  1. Navigate to _main.c_
+  2. Right click "open in terminal"
   3. `make && sudo ./create2 > log.txt`
