@@ -10,4 +10,4 @@ Upon discovery of all **X** notecards, stop the Roomba and play a song.
 ## Executing code:
   1. Navigate to _main.c_
   2. Right click "open in terminal"
-  3. `make serial && sudo ./serial`
+  3. `make && sudo ./create2 > log.txt`
