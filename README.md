@@ -1,8 +1,12 @@
 # FMU-Robotics-Projects
 
+<br>
+
 ## About
 
 Projects completed for CS 330: Robotics at Francis Marion University during Spring 2017. For each project I have listed the goals required to complete the assignment along with the code used to acheive these goals. Individual projects are available to download via [DownGit](https://minhaskamal.github.io/DownGit/#/home) in the links below.
+
+<br>
 
 ## Project-1
 
@@ -18,6 +22,8 @@ bumper is depressed.
 
 [Download Project-1](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/rfenters95/FMU-Robotics-Projects/tree/master/Project-1)
 
+<br>
+
 ## Project-2
 
 ### Project-2 Goals:
@@ -31,6 +37,8 @@ the sensor is deactivated.
 
 [Download Project-2](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/rfenters95/FMU-Robotics-Projects/tree/master/Project-2)
 
+<br>
+
 ## Project-3
 
 ### Project-3 Goals:
@@ -40,6 +48,8 @@ the sensor is deactivated.
 no longer detected. **Delay should not effect distance Roomba must travel!**
 
 [Download Project-3](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/rfenters95/FMU-Robotics-Projects/tree/master/Project-3)
+
+<br>
 
 ## Project-4
 
@@ -52,6 +62,8 @@ Have the Roomba drive into (bump) and correct itself.
 3. Should be able to handle a concave or convex corner.
 
 [Download Project-4](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/rfenters95/FMU-Robotics-Projects/tree/master/Project-4)
+
+<br>
 
 ## Project-5
 
