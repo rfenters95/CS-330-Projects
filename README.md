@@ -1,5 +1,7 @@
 # FMU-Robotics-Projects
 
+## About
+
 Projects completed for CS 330: Robotics at Francis Marion University during Spring 2017. For each project I have listed the goals required to complete the assignment along with the code used to acheive these goals. Individual projects are available to download via [DownGit](https://minhaskamal.github.io/DownGit/#/home) in the links below.
 
 ## Project-1
