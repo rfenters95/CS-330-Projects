@@ -61,4 +61,4 @@ It's job will be to find **X** notecards will be placed randomly throughout the 
 Discovery of a notecard will be **indicated by flashing an LED(s) or playing a tone**. <br>
 Upon discovery of all **X** notecards, stop the Roomba and play a song.
 
-5. [Download Project-5](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/rfenters95/FMU-Robotics-Projects/tree/master/Project-5)
+[Download Project-5](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/rfenters95/FMU-Robotics-Projects/tree/master/Project-5)
