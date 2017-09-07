@@ -9,11 +9,13 @@ Projects completed for CS 330: Robotics at Francis Marion University during Spri
 - Cycle the power button from red to green in 16 even steps. Show each<br>
 color for 1 second.
 
-- If the left bumper is pressed, light the robot's Check Robot LED while<br>
+- While cycling, if the left bumper is pressed, light the robot's Check Robot LED while<br>
 the bumper is depressed.
 
-- If the right bumper is pressed, light the robot's Debris LED while the<br>
+- While cycling, if the right bumper is pressed, light the robot's Debris LED while the<br>
 bumper is depressed.
+
+**Note checking and responding to bumpers should not disrupt 1 second timer**.
 
 <br>
 
